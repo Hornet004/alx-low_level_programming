@@ -10,5 +10,5 @@ printf(sizeof(int));
 printf(sizeof(long int));
 printf(sizeof(long long int));
 printf(sizeof(float));
-return(0);
+return (0);
 }
