@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * - PRINTS All ALPHABETS
- */
+ * main - PRINTS All ALPHABETS
+*/
 
 int main(void)
 {
