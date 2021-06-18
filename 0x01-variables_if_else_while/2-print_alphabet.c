@@ -2,6 +2,7 @@
 
 /**
  * main - PRINTS All ALPHABETS
+ * Return: 0
 */
 
 int main(void)
