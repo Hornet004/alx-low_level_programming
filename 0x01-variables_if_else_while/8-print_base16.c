@@ -12,10 +12,10 @@ int main(void)
 	int n;
 	char a;
 
-	n = 0;
+	n = 48;
 	a = 'a';
 
-	while (n < 10)
+	while (n < 58)
 	{
 		putchar(n);
 		n++;
