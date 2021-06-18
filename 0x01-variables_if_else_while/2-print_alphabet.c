@@ -1,4 +1,4 @@
-#INCLUDE <STDIO.H>
+#include <stdio.h>
 
 /**
  * - PRINTS All ALPHABETS
