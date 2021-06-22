@@ -1,8 +1,23 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "holberton.h"
 
-int main()
+/**
+ * main - entry point
+ *
+ * Description: prints the string holberton
+ *
+ * Return: always 0
+ */
+
+int main(void)
 {
-    printf("Holberton\n");
-    return 0;
+	char c[9] = "Holberton";
+	int i;
+
+	for (i = 0 ; i < 9 ; i++)
+	{
+		_putchar(c[i]);
+	}
+	_putchar('\n');
+
+	return (0);
 }
