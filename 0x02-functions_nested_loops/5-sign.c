@@ -14,14 +14,14 @@ int print_sign(int n)
 {
 	if (n > 0)
 	{
-		_putchar(043);
+		_putchar("043");
 		return (1);
 	} else if (n < 0)
 	{
-		_putchar(045);
+		_putchar("045");
 		return (-1);
 	}
-	_putchar(048);
+	_putchar("048");
 	return (0);
 
 }
