@@ -9,7 +9,7 @@
  * Return: the value.
  */
 
-int _abs(int j)
+int _abs(int n)
 {
-	return (abs(j));
+	return (abs(n));
 }
