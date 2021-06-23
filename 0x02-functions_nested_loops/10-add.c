@@ -1,14 +1,11 @@
 #include "holberton.h"
-#include <stdio.h>
 
 /**
- * main - check the code for ALX School students.
+ * add - Entry point
  *
- * @a - value 1
- *
- * @b - value 2
-
- * Return: Always 0.
+ * @a: - integer value
+ * @b: - integer value
+ * Return: result
  */
 int add(int a, int b)
 {
