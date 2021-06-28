@@ -8,9 +8,5 @@
  */
 void _puts(char *str)
 {
-char newString[];
-char newline[] = "/n";
-*str = newString;
-_puts(newString);
-_puts(newline);
+puts(*str);
 }
