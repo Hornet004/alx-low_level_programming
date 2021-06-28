@@ -8,5 +8,6 @@
  */
 void _puts(char *str)
 {
-puts(*str);
+*str = char input;
+puts(input);
 }
