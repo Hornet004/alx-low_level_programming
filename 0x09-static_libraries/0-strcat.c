@@ -9,14 +9,7 @@
  */
 
 
-int _strlen(char *s)
+char *_strcat(char *dest, char *src)
 {
-	int counter = 0;
-
-	while (*s != 0)
-	{
-		counter++;
-		s++;
-	}
-	return (counter);
+	return (dest);
 }
