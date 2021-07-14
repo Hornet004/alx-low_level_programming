@@ -52,4 +52,3 @@ char *_strdup(char *str)
 	}
 	return (p);
 }
-© 2021 GitHub, Inc.
