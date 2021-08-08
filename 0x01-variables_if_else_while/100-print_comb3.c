@@ -21,11 +21,14 @@ int main()
             
             
         }
-        // for(j = 0; j <= 9; j++)
-        // {
-        //   k = (j += i); 
-        //   putchar(k);
-        // }
+        /**
+         * 
+            * for(j = 0; j <= 9; j++)
+            *
+            *k = (j += i)
+            *putchar(k);
+        * 
+        **/
     }
     putchar('\n');
     return 0;
